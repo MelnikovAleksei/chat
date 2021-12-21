@@ -1,0 +1,24 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel -p 3000",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MelnikovAleksei/chat.git"
+  },
+  "author": "Melnikov Aleksei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MelnikovAleksei/chat/issues"
+  },
+  "homepage": "https://github.com/MelnikovAleksei/chat#readme",
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  }
+}
